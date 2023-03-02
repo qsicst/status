@@ -5,7 +5,6 @@ repo: status
 sites:
   - name: Integiry Management System (IMS)®
     url: $IMS_SITE
-    icon: 
   - name: QSI Support Portal
     url: $IMS_SUPPORT
   - name: QSI Website
@@ -30,5 +29,3 @@ status-website:
 
 assignees:
   - harrislineage
-  
-robotsText: "User-agent: * \n Disallow: /"
