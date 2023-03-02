@@ -17,12 +17,9 @@ status-website:
   baseUrl: /status
   theme: dark
   logoUrl: https://qualifiedspecialists.com/qsiweb/wp-content/uploads/2016/04/QSI-Logo-E-161x124.png
-  name: QSI Status Page
+  name: 
   introTitle: 
-  introMessage: This is the QSI Status Page which provides **real-time** data of our network and SaaS service (IMS®).
-  navbar:
-    - title: Status
-      href: /
+  introMessage: Status of the QSI Customer Network and SaaS service (IMS®).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -31,4 +28,4 @@ assignees:
   - harrislineage
 
 i18n:
-  footer: 
+  footer: Qualified Specialists, LLC
