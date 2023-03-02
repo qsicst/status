@@ -15,8 +15,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  theme
-  # logoUrl: https://qualifiedspecialists.com/qsiweb/wp-content/uploads/2016/04/QSI-Logo-E-161x124.png
+  theme: dark
+  logoUrl: https://qualifiedspecialists.com/qsiweb/wp-content/uploads/2016/04/QSI-Logo-E-161x124.png
   name: QSI Status Page
   introTitle: 
   introMessage: This is the QSI Status Page which provides **real-time** data of our network and SaaS service (IMS®).
