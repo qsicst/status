@@ -20,6 +20,15 @@ status-website:
   name: Network Status
   introTitle: 
   introMessage:
+ 
+workflowSchedule:
+  graphs: "45 * * * *"
+  responseTime: "45 * * * *"
+  staticSite: "45 * * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
