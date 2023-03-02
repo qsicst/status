@@ -17,9 +17,9 @@ status-website:
   baseUrl: /status
   theme: dark
   logoUrl: https://qualifiedspecialists.com/qsiweb/wp-content/uploads/2016/04/QSI-Logo-E-161x124.png
-  name: 
+  name: Network Status
   introTitle: 
-  introMessage: Status of the QSI Customer Network and SaaS service (IMS®).
+  introMessage:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
