@@ -6,15 +6,15 @@
     "slug": "integiry-management-system-ims",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 1277,
-    "timeDay": 1688,
-    "timeWeek": 1290,
-    "timeMonth": 1277,
-    "timeYear": 1277,
+    "time": 1278,
+    "timeDay": 1285,
+    "timeWeek": 1302,
+    "timeMonth": 1278,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2023-03-20": 42
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 469,
-    "timeWeek": 497,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "time": 456,
+    "timeDay": 425,
+    "timeWeek": 442,
+    "timeMonth": 456,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4105,
-    "timeDay": 3985,
-    "timeWeek": 4248,
-    "timeMonth": 4105,
-    "timeYear": 4105,
+    "time": 4117,
+    "timeDay": 4357,
+    "timeWeek": 4183,
+    "timeMonth": 4117,
+    "timeYear": 4117,
     "dailyMinutesDown": {}
   }
 ]
