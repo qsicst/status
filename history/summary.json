@@ -42,19 +42,19 @@
     "url": "https://www.qualifiedspecialists.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.qualifiedspecialists.com.ico",
     "slug": "qsi-website",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.88%",
-    "time": 4236,
-    "timeDay": 5561,
-    "timeWeek": 4638,
-    "timeMonth": 4349,
-    "timeYear": 4236,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.84%",
+    "time": 4240,
+    "timeDay": 5699,
+    "timeWeek": 4665,
+    "timeMonth": 4356,
+    "timeYear": 4240,
     "dailyMinutesDown": {
-      "2023-04-23": 89
+      "2023-04-23": 123
     }
   }
 ]
