@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1269,
-    "timeDay": 1524,
-    "timeWeek": 1261,
+    "timeDay": 1518,
+    "timeWeek": 1264,
     "timeMonth": 1265,
     "timeYear": 1269,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 378,
+    "timeDay": 399,
     "timeWeek": 445,
-    "timeMonth": 459,
+    "timeMonth": 458,
     "timeYear": 459,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,19 @@
     "url": "https://www.qualifiedspecialists.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.qualifiedspecialists.com.ico",
     "slug": "qsi-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4214,
-    "timeDay": 4909,
-    "timeWeek": 4467,
-    "timeMonth": 4297,
-    "timeYear": 4214,
-    "dailyMinutesDown": {}
+    "time": 4222,
+    "timeDay": 5129,
+    "timeWeek": 4498,
+    "timeMonth": 4322,
+    "timeYear": 4222,
+    "dailyMinutesDown": {
+      "2023-04-23": 0
+    }
   }
 ]
