@@ -4,18 +4,19 @@
     "url": "$IMS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "integiry-management-system-ims",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1256,
-    "timeDay": 1206,
-    "timeWeek": 1237,
+    "timeDay": 1201,
+    "timeWeek": 1235,
     "timeMonth": 1237,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2023-05-18": 0,
       "2023-03-20": 42
     }
   },
@@ -26,15 +27,15 @@
     "slug": "qsi-support-portal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 457,
-    "timeDay": 770,
-    "timeWeek": 506,
-    "timeMonth": 450,
-    "timeYear": 457,
+    "time": 456,
+    "timeDay": 402,
+    "timeWeek": 471,
+    "timeMonth": 449,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2023-05-17": 34
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.87%",
-    "time": 4490,
-    "timeDay": 4909,
-    "timeWeek": 5521,
-    "timeMonth": 4969,
-    "timeYear": 4490,
+    "time": 4489,
+    "timeDay": 4999,
+    "timeWeek": 5308,
+    "timeMonth": 4984,
+    "timeYear": 4489,
     "dailyMinutesDown": {
       "2023-04-23": 146
     }
