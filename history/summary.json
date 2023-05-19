@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "integiry-management-system-ims",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1256,
-    "timeDay": 1196,
-    "timeWeek": 1234,
-    "timeMonth": 1237,
+    "timeDay": 1231,
+    "timeWeek": 1239,
+    "timeMonth": 1239,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2023-05-18": 13,
       "2023-03-20": 42
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 456,
-    "timeDay": 402,
+    "timeDay": 413,
     "timeWeek": 471,
-    "timeMonth": 449,
+    "timeMonth": 447,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2023-05-17": 34
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.87%",
-    "time": 4489,
-    "timeDay": 4999,
-    "timeWeek": 5308,
-    "timeMonth": 4984,
-    "timeYear": 4489,
+    "time": 4484,
+    "timeDay": 4024,
+    "timeWeek": 5143,
+    "timeMonth": 4974,
+    "timeYear": 4484,
     "dailyMinutesDown": {
       "2023-04-23": 146
     }
